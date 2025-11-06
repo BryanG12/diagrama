@@ -1,17 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.9">
   <diagram name="Página-1" id="Q2q-gIX2eqPzTgAUDuU2">
-    <mxGraphModel dx="778" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1111" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xZNi-18zxCuduQty86ot-1" value="&lt;div&gt;DIRECCIÓN GENERAL&lt;/div&gt;&lt;div&gt;*Planificación Estratégica&lt;/div&gt;&lt;div&gt;*Gestión de Recursos&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="200" y="65" width="190" height="90" as="geometry" />
+          <mxGeometry x="500" y="142.5" width="190" height="75" as="geometry" />
         </mxCell>
         <mxCell id="xZNi-18zxCuduQty86ot-2" value="&lt;div&gt;VENTAS Y MARKETING&lt;/div&gt;&lt;div&gt;*Gestión Comercial&lt;/div&gt;&lt;div&gt;*Relaciones con Clientes&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="480" y="70" width="180" height="80" as="geometry" />
+          <mxGeometry x="730" y="140" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="xZNi-18zxCuduQty86ot-3" value="&lt;br&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI, Arial, sans-serif&quot;&gt;&lt;b&gt;DESARROLLO DE SOFTWARE&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="60" y="270" width="210" height="70" as="geometry" />
+          <mxGeometry x="340" y="275" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpjFsxgK88EA4HshYqYr-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;PROCESOS ESTRATÉGICOS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpjFsxgK88EA4HshYqYr-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;PROCESOS CORE (NEGOCIO)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
